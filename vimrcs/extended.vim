@@ -35,7 +35,8 @@ colorscheme gruvbox
 set relativenumber
 "no breaking lines (set nowrap)
 set nowrap
-
+"eneable mouse interaction
+set mouse=a
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
