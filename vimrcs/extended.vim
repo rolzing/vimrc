@@ -29,8 +29,12 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme peaksea
+colorscheme gruvbox 
 
+"show relative numbers 
+set relativenumber
+"no breaking lines (set nowrap)
+set nowrap
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
